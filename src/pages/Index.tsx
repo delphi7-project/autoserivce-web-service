@@ -345,7 +345,7 @@ export default function Index() {
               <div className="w-8 h-8 bg-gradient-to-r from-orange-500 to-blue-600 rounded-lg flex items-center justify-center">
                 <Icon name="Car" className="text-white" size={20} />
               </div>
-              <span className="text-xl font-bold">АвтоСервис Pro</span>
+              <span className="text-xl font-bold">СТО ЛИДЕР</span>
             </div>
             <p className="text-gray-400">© 2024 СТО ЛИДЕР. Все права защищены.</p>
           </div>
