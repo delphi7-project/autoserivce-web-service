@@ -69,7 +69,7 @@ export default function Index() {
               <Icon name="Car" className="text-white" size={24} />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">АвтоСервис Pro</h1>
+              <h1 className="text-2xl font-bold text-gray-900">СТО ЛИДЕР</h1>
               <p className="text-sm text-gray-600">Профессиональный ремонт</p>
             </div>
           </div>
