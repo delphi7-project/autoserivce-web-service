@@ -320,7 +320,7 @@ export default function Index() {
                 <CardTitle>Email</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-lg font-semibold">info@autoservice-pro.ru</p>
+                <p className="text-lg font-semibold">Stolidersochi@mail.ru</p>
                 <p className="text-gray-400">Ответим в течение часа</p>
               </CardContent>
             </Card>
