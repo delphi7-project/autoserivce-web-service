@@ -347,7 +347,7 @@ export default function Index() {
               </div>
               <span className="text-xl font-bold">АвтоСервис Pro</span>
             </div>
-            <p className="text-gray-400">© 2024 АвтоСервис Pro. Все права защищены.</p>
+            <p className="text-gray-400">© 2024 СТО ЛИДЕР. Все права защищены.</p>
           </div>
         </div>
       </footer>
