@@ -307,7 +307,7 @@ export default function Index() {
               </CardHeader>
               <CardContent>
                 <p className="text-lg font-semibold">ул. Чекменева, 27</p>
-                <p className="text-gray-400">Москва, 115419</p>
+                <p className="text-gray-400">Сочи, 354024</p>
                 <p className="text-gray-400">Рядом с метро "Автозаводская"</p>
               </CardContent>
             </Card>
