@@ -293,7 +293,7 @@ export default function Index() {
                 <CardTitle>Телефон</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-2xl font-bold text-orange-400">+7 (988) 235-66-88</p>
+                <p className="text-2xl font-bold text-orange-400">+7 (988) 235-66-88, +7 (921) 303-30-30</p>
                 <p className="text-gray-400">Ежедневно с 8:00 до 20:00</p>
               </CardContent>
             </Card>
