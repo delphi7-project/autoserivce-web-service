@@ -3,6 +3,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
 import Icon from "@/components/ui/icon";
+import { Link } from "react-router-dom";
 
 export default function Index() {
   const services = [
@@ -74,10 +75,10 @@ export default function Index() {
             </div>
           </div>
           <nav className="hidden md:flex space-x-8">
-            <a href="#services" className="text-gray-700 hover:text-orange-500 transition-colors">Услуги</a>
-            <a href="#reviews" className="text-gray-700 hover:text-orange-500 transition-colors">Отзывы</a>
-            <a href="#guarantees" className="text-gray-700 hover:text-orange-500 transition-colors">Гарантии</a>
-            <a href="#contacts" className="text-gray-700 hover:text-orange-500 transition-colors">Контакты</a>
+            <Link to="/services" className="text-gray-700 hover:text-orange-500 transition-colors">Услуги</Link>
+            <Link to="/about" className="text-gray-700 hover:text-orange-500 transition-colors">О нас</Link>
+            <Link to="/prices" className="text-gray-700 hover:text-orange-500 transition-colors">Цены</Link>
+            <Link to="/contacts" className="text-gray-700 hover:text-orange-500 transition-colors">Контакты</Link>
           </nav>
           <Button className="bg-gradient-to-r from-orange-500 to-orange-600 hover:from-orange-600 hover:to-orange-700">
             Записаться
